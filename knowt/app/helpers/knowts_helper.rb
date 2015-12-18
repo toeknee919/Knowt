@@ -1,0 +1,2 @@
+module KnowtsHelper
+end
